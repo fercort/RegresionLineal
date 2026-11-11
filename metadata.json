@@ -1,0 +1,6 @@
+{
+  "name": "Regresión Lineal Múltiple & Simulador de Negocio",
+  "description": "Plataforma analítica y econométrica de Regresión Lineal Múltiple (OLS), selección inteligente asistida por IA, diagnóstico de datos y simulador interactivo de escenarios de negocio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
